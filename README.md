@@ -11,4 +11,4 @@ Missing tag imputation - here we use tags to impute the values
 
 Random-sample imputation - here we take random sample of dame size as of our missing values
 
-If you want to know more about soon I will provide the link of my blog here.
+Here is my blog where I have talked about these techniques: http://www.datasciencenovice.com/
